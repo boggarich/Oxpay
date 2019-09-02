@@ -1,0 +1,20 @@
+{
+  "name": "oxpay",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.1.tar.gz",
+    "firebase": "6.4.2",
+    "native-base": "2.13.5",
+    "react-addons-update": "15.6.2",
+    "react-native-paper": "2.16.0",
+    "react-navigation": "3.12.0",
+    "react-redux": "7.1.0",
+    "redux": "4.0.4"
+  }
+}
