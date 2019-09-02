@@ -7,7 +7,7 @@ import * as firebase from 'firebase';
 export default class Root extends React.Component{
   componentDidMount(){
     var firebaseConfig = {
-    apiKey: "AIzaSyBK5WJmerTPREPBW_WSZ-_wlfbbewGT5MI",
+    apiKey: "",
     authDomain: "oxpay-efc16.firebaseapp.com",
     databaseURL: "https://oxpay-efc16.firebaseio.com",
     projectId: "oxpay-efc16",
