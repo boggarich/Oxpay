@@ -9,7 +9,7 @@
     "expo": "^34.0.0",
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.1.tar.gz",
-    "firebase": "6.4.2",
+    "firebase": "10.9.0",
     "native-base": "2.13.5",
     "react-addons-update": "15.6.2",
     "react-native-paper": "2.16.0",
